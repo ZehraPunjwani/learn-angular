@@ -1,0 +1,10 @@
+h2, h5 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h4 {
+  font-weight: 900;
+  text-decoration: underline;
+}
